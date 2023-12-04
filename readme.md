@@ -30,9 +30,11 @@ http://localhost:3000/Status
 
 ## Tech Stack Used
 
+
 - python
 - Next.js
 - Node.js
 - Flask
 
 ## Output
+<img width="945" alt="fe (2)" src="https://github.com/sxs6596/IMDB-Sentiment-Analysis/assets/127999061/e745fa86-96db-4dc9-94b4-720180048a6a">
